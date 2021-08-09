@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: You can contact me by sending a message to my email: piotrem02@yahoo.pl
 
 <!---
 piotrem02/piotrem02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
