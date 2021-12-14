@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrem02
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity and C#
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can contact me by sending a message to my email: piotrem02@yahoo.pl
 
