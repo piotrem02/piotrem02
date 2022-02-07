@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @piotrem02
+- 👋 Hi, I’m @PIOMAR
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can contact me by sending a message to my email: piotrem02@yahoo.pl
 
