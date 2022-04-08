@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PIOMAR
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Java && Unity
+- 👀 I’m interested in to create Website with browser games.
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can contact me by sending a message to my email: piotrem02@yahoo.pl
 
